@@ -113,6 +113,7 @@ tablero reproducible; sus CSV permiten recrear cada panel en Metabase.
 
 ## Resultados principales
 
+- [Informe final en formato Word](docs/Informe_Laboratorio_8_DuckDB.docx)
 - [Cobertura, calidad, hallazgos y tablero](docs/RESULTADOS.md)
 - [Benchmark](docs/BENCHMARK.md)
 - [Catalogo de consultas](docs/CONSULTAS.md)
