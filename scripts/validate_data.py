@@ -15,7 +15,10 @@ def parquet_valido(path: Path) -> bool:
     if path.stat().st_size < 12:
         return False
     with path.open("rb") as stream:
-        return stream.read(4) == b"PAR1" and (stream.seek(-4, 2) or True) and stream.read(4) == b"PAR1"
+        if stream.read(4) != b"PAR1":
+            return False
+        stream.seek(-4, 2)
+        return stream.read(4) == b"PAR1"
 
 
 def main() -> None:
