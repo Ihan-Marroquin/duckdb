@@ -1,0 +1,578 @@
+[
+  {
+    "taxi_type": "yellow",
+    "year": 2024,
+    "file": "yellow_tripdata_2024-01.parquet",
+    "bytes": 49961641,
+    "valid_parquet": true,
+    "rows": 2964624,
+    "columns": 19
+  },
+  {
+    "taxi_type": "yellow",
+    "year": 2024,
+    "file": "yellow_tripdata_2024-02.parquet",
+    "bytes": 50349284,
+    "valid_parquet": true,
+    "rows": 3007526,
+    "columns": 19
+  },
+  {
+    "taxi_type": "yellow",
+    "year": 2024,
+    "file": "yellow_tripdata_2024-03.parquet",
+    "bytes": 60078280,
+    "valid_parquet": true,
+    "rows": 3582628,
+    "columns": 19
+  },
+  {
+    "taxi_type": "yellow",
+    "year": 2024,
+    "file": "yellow_tripdata_2024-04.parquet",
+    "bytes": 59133625,
+    "valid_parquet": true,
+    "rows": 3514289,
+    "columns": 19
+  },
+  {
+    "taxi_type": "yellow",
+    "year": 2024,
+    "file": "yellow_tripdata_2024-05.parquet",
+    "bytes": 62553128,
+    "valid_parquet": true,
+    "rows": 3723833,
+    "columns": 19
+  },
+  {
+    "taxi_type": "yellow",
+    "year": 2024,
+    "file": "yellow_tripdata_2024-06.parquet",
+    "bytes": 59859922,
+    "valid_parquet": true,
+    "rows": 3539193,
+    "columns": 19
+  },
+  {
+    "taxi_type": "yellow",
+    "year": 2024,
+    "file": "yellow_tripdata_2024-07.parquet",
+    "bytes": 52299432,
+    "valid_parquet": true,
+    "rows": 3076903,
+    "columns": 19
+  },
+  {
+    "taxi_type": "yellow",
+    "year": 2024,
+    "file": "yellow_tripdata_2024-08.parquet",
+    "bytes": 51067350,
+    "valid_parquet": true,
+    "rows": 2979183,
+    "columns": 19
+  },
+  {
+    "taxi_type": "yellow",
+    "year": 2024,
+    "file": "yellow_tripdata_2024-09.parquet",
+    "bytes": 61170186,
+    "valid_parquet": true,
+    "rows": 3633030,
+    "columns": 19
+  },
+  {
+    "taxi_type": "yellow",
+    "year": 2024,
+    "file": "yellow_tripdata_2024-10.parquet",
+    "bytes": 64346071,
+    "valid_parquet": true,
+    "rows": 3833771,
+    "columns": 19
+  },
+  {
+    "taxi_type": "yellow",
+    "year": 2024,
+    "file": "yellow_tripdata_2024-11.parquet",
+    "bytes": 60658709,
+    "valid_parquet": true,
+    "rows": 3646369,
+    "columns": 19
+  },
+  {
+    "taxi_type": "yellow",
+    "year": 2024,
+    "file": "yellow_tripdata_2024-12.parquet",
+    "bytes": 61524085,
+    "valid_parquet": true,
+    "rows": 3668371,
+    "columns": 19
+  },
+  {
+    "taxi_type": "yellow",
+    "year": 2025,
+    "file": "yellow_tripdata_2025-01.parquet",
+    "bytes": 59158238,
+    "valid_parquet": true,
+    "rows": 3475226,
+    "columns": 20
+  },
+  {
+    "taxi_type": "yellow",
+    "year": 2025,
+    "file": "yellow_tripdata_2025-02.parquet",
+    "bytes": 60343086,
+    "valid_parquet": true,
+    "rows": 3577543,
+    "columns": 20
+  },
+  {
+    "taxi_type": "yellow",
+    "year": 2025,
+    "file": "yellow_tripdata_2025-03.parquet",
+    "bytes": 69964745,
+    "valid_parquet": true,
+    "rows": 4145257,
+    "columns": 20
+  },
+  {
+    "taxi_type": "yellow",
+    "year": 2025,
+    "file": "yellow_tripdata_2025-04.parquet",
+    "bytes": 67352824,
+    "valid_parquet": true,
+    "rows": 3970553,
+    "columns": 20
+  },
+  {
+    "taxi_type": "yellow",
+    "year": 2025,
+    "file": "yellow_tripdata_2025-05.parquet",
+    "bytes": 77837865,
+    "valid_parquet": true,
+    "rows": 4591845,
+    "columns": 20
+  },
+  {
+    "taxi_type": "yellow",
+    "year": 2025,
+    "file": "yellow_tripdata_2025-06.parquet",
+    "bytes": 73542954,
+    "valid_parquet": true,
+    "rows": 4322960,
+    "columns": 20
+  },
+  {
+    "taxi_type": "yellow",
+    "year": 2025,
+    "file": "yellow_tripdata_2025-07.parquet",
+    "bytes": 66943728,
+    "valid_parquet": true,
+    "rows": 3898963,
+    "columns": 20
+  },
+  {
+    "taxi_type": "yellow",
+    "year": 2025,
+    "file": "yellow_tripdata_2025-08.parquet",
+    "bytes": 62293743,
+    "valid_parquet": true,
+    "rows": 3574091,
+    "columns": 20
+  },
+  {
+    "taxi_type": "yellow",
+    "year": 2025,
+    "file": "yellow_tripdata_2025-09.parquet",
+    "bytes": 72432945,
+    "valid_parquet": true,
+    "rows": 4251015,
+    "columns": 20
+  },
+  {
+    "taxi_type": "yellow",
+    "year": 2025,
+    "file": "yellow_tripdata_2025-10.parquet",
+    "bytes": 75267589,
+    "valid_parquet": true,
+    "rows": 4428699,
+    "columns": 20
+  },
+  {
+    "taxi_type": "yellow",
+    "year": 2025,
+    "file": "yellow_tripdata_2025-11.parquet",
+    "bytes": 71134255,
+    "valid_parquet": true,
+    "rows": 4181444,
+    "columns": 20
+  },
+  {
+    "taxi_type": "yellow",
+    "year": 2025,
+    "file": "yellow_tripdata_2025-12.parquet",
+    "bytes": 73701327,
+    "valid_parquet": true,
+    "rows": 4305006,
+    "columns": 20
+  },
+  {
+    "taxi_type": "yellow",
+    "year": 2026,
+    "file": "yellow_tripdata_2026-01.parquet",
+    "bytes": 64165080,
+    "valid_parquet": true,
+    "rows": 3724889,
+    "columns": 20
+  },
+  {
+    "taxi_type": "yellow",
+    "year": 2026,
+    "file": "yellow_tripdata_2026-02.parquet",
+    "bytes": 58683353,
+    "valid_parquet": true,
+    "rows": 3399866,
+    "columns": 20
+  },
+  {
+    "taxi_type": "yellow",
+    "year": 2026,
+    "file": "yellow_tripdata_2026-03.parquet",
+    "bytes": 67891249,
+    "valid_parquet": true,
+    "rows": 3952451,
+    "columns": 20
+  },
+  {
+    "taxi_type": "yellow",
+    "year": 2026,
+    "file": "yellow_tripdata_2026-04.parquet",
+    "bytes": 64818115,
+    "valid_parquet": true,
+    "rows": 3831240,
+    "columns": 20
+  },
+  {
+    "taxi_type": "yellow",
+    "year": 2026,
+    "file": "yellow_tripdata_2026-05.parquet",
+    "bytes": 69699174,
+    "valid_parquet": true,
+    "rows": 4090836,
+    "columns": 20
+  },
+  {
+    "taxi_type": "yellow",
+    "year": 2026,
+    "file": "yellow_tripdata_2026-06.parquet",
+    "bytes": 65465637,
+    "valid_parquet": true,
+    "rows": 3837248,
+    "columns": 21
+  },
+  {
+    "taxi_type": "yellow",
+    "year": 2026,
+    "file": "yellow_tripdata_2026-07.parquet",
+    "bytes": 61685033,
+    "valid_parquet": true,
+    "rows": 3530109,
+    "columns": 21
+  },
+  {
+    "taxi_type": "yellow",
+    "year": 2026,
+    "file": "yellow_tripdata_2026-08.parquet",
+    "bytes": 59043961,
+    "valid_parquet": true,
+    "rows": 3336716,
+    "columns": 21
+  },
+  {
+    "taxi_type": "green",
+    "year": 2024,
+    "file": "green_tripdata_2024-01.parquet",
+    "bytes": 1362284,
+    "valid_parquet": true,
+    "rows": 56551,
+    "columns": 20
+  },
+  {
+    "taxi_type": "green",
+    "year": 2024,
+    "file": "green_tripdata_2024-02.parquet",
+    "bytes": 1283805,
+    "valid_parquet": true,
+    "rows": 53577,
+    "columns": 20
+  },
+  {
+    "taxi_type": "green",
+    "year": 2024,
+    "file": "green_tripdata_2024-03.parquet",
+    "bytes": 1372372,
+    "valid_parquet": true,
+    "rows": 57457,
+    "columns": 20
+  },
+  {
+    "taxi_type": "green",
+    "year": 2024,
+    "file": "green_tripdata_2024-04.parquet",
+    "bytes": 1346502,
+    "valid_parquet": true,
+    "rows": 56471,
+    "columns": 20
+  },
+  {
+    "taxi_type": "green",
+    "year": 2024,
+    "file": "green_tripdata_2024-05.parquet",
+    "bytes": 1453912,
+    "valid_parquet": true,
+    "rows": 61003,
+    "columns": 20
+  },
+  {
+    "taxi_type": "green",
+    "year": 2024,
+    "file": "green_tripdata_2024-06.parquet",
+    "bytes": 1326194,
+    "valid_parquet": true,
+    "rows": 54748,
+    "columns": 20
+  },
+  {
+    "taxi_type": "green",
+    "year": 2024,
+    "file": "green_tripdata_2024-07.parquet",
+    "bytes": 1250973,
+    "valid_parquet": true,
+    "rows": 51837,
+    "columns": 20
+  },
+  {
+    "taxi_type": "green",
+    "year": 2024,
+    "file": "green_tripdata_2024-08.parquet",
+    "bytes": 1267079,
+    "valid_parquet": true,
+    "rows": 51771,
+    "columns": 20
+  },
+  {
+    "taxi_type": "green",
+    "year": 2024,
+    "file": "green_tripdata_2024-09.parquet",
+    "bytes": 1326186,
+    "valid_parquet": true,
+    "rows": 54440,
+    "columns": 20
+  },
+  {
+    "taxi_type": "green",
+    "year": 2024,
+    "file": "green_tripdata_2024-10.parquet",
+    "bytes": 1353731,
+    "valid_parquet": true,
+    "rows": 56147,
+    "columns": 20
+  },
+  {
+    "taxi_type": "green",
+    "year": 2024,
+    "file": "green_tripdata_2024-11.parquet",
+    "bytes": 1264688,
+    "valid_parquet": true,
+    "rows": 52222,
+    "columns": 20
+  },
+  {
+    "taxi_type": "green",
+    "year": 2024,
+    "file": "green_tripdata_2024-12.parquet",
+    "bytes": 1312306,
+    "valid_parquet": true,
+    "rows": 53994,
+    "columns": 20
+  },
+  {
+    "taxi_type": "green",
+    "year": 2025,
+    "file": "green_tripdata_2025-01.parquet",
+    "bytes": 1178451,
+    "valid_parquet": true,
+    "rows": 48326,
+    "columns": 21
+  },
+  {
+    "taxi_type": "green",
+    "year": 2025,
+    "file": "green_tripdata_2025-02.parquet",
+    "bytes": 1117474,
+    "valid_parquet": true,
+    "rows": 46621,
+    "columns": 21
+  },
+  {
+    "taxi_type": "green",
+    "year": 2025,
+    "file": "green_tripdata_2025-03.parquet",
+    "bytes": 1253510,
+    "valid_parquet": true,
+    "rows": 51539,
+    "columns": 21
+  },
+  {
+    "taxi_type": "green",
+    "year": 2025,
+    "file": "green_tripdata_2025-04.parquet",
+    "bytes": 1269227,
+    "valid_parquet": true,
+    "rows": 52132,
+    "columns": 21
+  },
+  {
+    "taxi_type": "green",
+    "year": 2025,
+    "file": "green_tripdata_2025-05.parquet",
+    "bytes": 1338798,
+    "valid_parquet": true,
+    "rows": 55399,
+    "columns": 21
+  },
+  {
+    "taxi_type": "green",
+    "year": 2025,
+    "file": "green_tripdata_2025-06.parquet",
+    "bytes": 1212934,
+    "valid_parquet": true,
+    "rows": 49390,
+    "columns": 21
+  },
+  {
+    "taxi_type": "green",
+    "year": 2025,
+    "file": "green_tripdata_2025-07.parquet",
+    "bytes": 1188380,
+    "valid_parquet": true,
+    "rows": 48205,
+    "columns": 21
+  },
+  {
+    "taxi_type": "green",
+    "year": 2025,
+    "file": "green_tripdata_2025-08.parquet",
+    "bytes": 1149707,
+    "valid_parquet": true,
+    "rows": 46306,
+    "columns": 21
+  },
+  {
+    "taxi_type": "green",
+    "year": 2025,
+    "file": "green_tripdata_2025-09.parquet",
+    "bytes": 1209831,
+    "valid_parquet": true,
+    "rows": 48893,
+    "columns": 21
+  },
+  {
+    "taxi_type": "green",
+    "year": 2025,
+    "file": "green_tripdata_2025-10.parquet",
+    "bytes": 1205685,
+    "valid_parquet": true,
+    "rows": 49416,
+    "columns": 21
+  },
+  {
+    "taxi_type": "green",
+    "year": 2025,
+    "file": "green_tripdata_2025-11.parquet",
+    "bytes": 1164775,
+    "valid_parquet": true,
+    "rows": 46912,
+    "columns": 21
+  },
+  {
+    "taxi_type": "green",
+    "year": 2025,
+    "file": "green_tripdata_2025-12.parquet",
+    "bytes": 1171145,
+    "valid_parquet": true,
+    "rows": 48236,
+    "columns": 21
+  },
+  {
+    "taxi_type": "green",
+    "year": 2026,
+    "file": "green_tripdata_2026-01.parquet",
+    "bytes": 991656,
+    "valid_parquet": true,
+    "rows": 40272,
+    "columns": 21
+  },
+  {
+    "taxi_type": "green",
+    "year": 2026,
+    "file": "green_tripdata_2026-02.parquet",
+    "bytes": 920753,
+    "valid_parquet": true,
+    "rows": 37373,
+    "columns": 21
+  },
+  {
+    "taxi_type": "green",
+    "year": 2026,
+    "file": "green_tripdata_2026-03.parquet",
+    "bytes": 1082530,
+    "valid_parquet": true,
+    "rows": 44208,
+    "columns": 21
+  },
+  {
+    "taxi_type": "green",
+    "year": 2026,
+    "file": "green_tripdata_2026-04.parquet",
+    "bytes": 1075896,
+    "valid_parquet": true,
+    "rows": 44238,
+    "columns": 21
+  },
+  {
+    "taxi_type": "green",
+    "year": 2026,
+    "file": "green_tripdata_2026-05.parquet",
+    "bytes": 1102947,
+    "valid_parquet": true,
+    "rows": 44921,
+    "columns": 21
+  },
+  {
+    "taxi_type": "green",
+    "year": 2026,
+    "file": "green_tripdata_2026-06.parquet",
+    "bytes": 1075836,
+    "valid_parquet": true,
+    "rows": 44163,
+    "columns": 22
+  },
+  {
+    "taxi_type": "green",
+    "year": 2026,
+    "file": "green_tripdata_2026-07.parquet",
+    "bytes": 1018250,
+    "valid_parquet": true,
+    "rows": 41252,
+    "columns": 22
+  },
+  {
+    "taxi_type": "green",
+    "year": 2026,
+    "file": "green_tripdata_2026-08.parquet",
+    "bytes": 1007530,
+    "valid_parquet": true,
+    "rows": 40687,
+    "columns": 22
+  }
+]
